@@ -9,9 +9,9 @@ I'm Enzo Saso a Front-end Developer. I like to create websites with good practic
 - 🔭 I’m currently find job
 - :computer: Most used line of code `yarn dev`
 - 📚 In my free time, I enjoy learning new technologies.
-- 📫 How to reach me: enzoarielsaso@gmail.com.
 - 💬 Ask me anything about ReactJS.
 - 🤝 I'm always open to collaborating on new projects, so feel free to reach out if you have any ideas!
+- 📫 How to reach me: enzoarielsaso@gmail.com.
 
 #### Top Technologies
 
