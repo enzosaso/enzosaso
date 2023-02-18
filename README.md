@@ -4,7 +4,7 @@ I'm Enzo Saso a Front-end Developer. I like to create websites with good practic
 
 :mailbox: Reach me out!
 
-[![Twitter Badge]](https://twitter.com/enzosaso) [![Linkedin Badge]](https://www.linkedin.com/in/enzosaso/) [![Mail Badge]](https://instagram.com/enzosaso) [![Mail Badge]](mailto:enzoarielsaso@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@enzosaso-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/enzosaso)](https://twitter.com/enzosaso) [![Linkedin Badge]](https://www.linkedin.com/in/enzosaso/) [![Mail Badge]](https://instagram.com/enzosaso) [![Mail Badge]](mailto:enzoarielsaso@gmail.com)
 
 - 🔭 I’m currently find job
 - :computer: Most used line of code `yarn dev`
